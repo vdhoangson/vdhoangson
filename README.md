@@ -1,8 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Son
-===========================================================================================================================
+Hi 👋 My name is Son
+====================
 
-Web Developer
--------------
+Fullstack Developer
+-------------------
 
 I have more than 10 years working in the field of information technology. Projects on e-commerce, big data processing, PMO, HRM, CRM,... My goal is to create the best products based on the strength of team work.
 
@@ -27,4 +27,8 @@ I have more than 10 years working in the field of information technology. Projec
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/vdhoangson"><img src="https://github-readme-stats.vercel.app/api?username=vdhoangson&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vdhoangson's GitHub stats" /></a>
+<a href="http://www.github.com/vdhoangson"><img src="https://github-readme-stats.vercel.app/api?username=vdhoangson&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="vdhoangson's GitHub stats" /></a>
+
+<a href="http://www.github.com/vdhoangson"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vdhoangson&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/vdhoangson" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdhoangson&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
