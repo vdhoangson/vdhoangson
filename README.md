@@ -9,7 +9,11 @@ I have more than 10 years working in the field of information technology. Projec
 * 🌍  I'm based in Viet Nam
 * 🖥️  See my portfolio at [My Portfolio](http://vdhoangson.com)
 * ✉️  You can contact me at [vdhoangson@gmail.com](mailto:vdhoangson@gmail.com)
-* 🚀  I'm currently working on [TichDiem.VN](http://tichdiem.vn)
+* 🚀  I'm currently working on [TichDiem.VN](http://tichdiem.vn) and [MiniApp.VN](http://miniapp.vn)
+
+### My projects
+<a href="https://tichdiem.vn/" target="_blank" rel="noreferrer"><img src="https://tichdiem.vn/wp-content/uploads/2023/11/logo-tich-diem-vn-pink-final-1.png"  alt="TichDiem" /></a><br /><br />
+<a href="https://tichdiem.vn/" target="_blank" rel="noreferrer"><img src="https://miniapp.vn/wp-content/uploads/2023/11/web-logo.png"  alt="TichDiem" /></a>
 
 ### Skills
 
