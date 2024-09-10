@@ -12,8 +12,8 @@ I have more than 10 years working in the field of information technology. Projec
 * 🚀  I'm currently working on [TichDiem.VN](http://tichdiem.vn) and [MiniApp.VN](http://miniapp.vn)
 
 ### My projects
-<a href="https://tichdiem.vn/" target="_blank" rel="noreferrer"><img src="https://tichdiem.vn/wp-content/uploads/2023/11/logo-tich-diem-vn-pink-final-1.png"  alt="TichDiem" /></a><br /><br />
-<a href="https://miniapp.vn/" target="_blank" rel="noreferrer"><img src="https://miniapp.vn/wp-content/uploads/2023/11/web-logo.png"  alt="TichDiem" /></a>
+<a href="https://tichdiem.vn/" target="_blank" rel="noreferrer"><img src="https://tichdiem.vn/wp-content/uploads/2023/11/logo-tich-diem-vn-pink-final-1.png"  alt="TichDiem.VN" /></a><br /><br />
+<a href="https://miniapp.vn/" target="_blank" rel="noreferrer"><img src="https://miniapp.vn/wp-content/uploads/2023/11/web-logo.png"  alt="MiniApp.VN" /></a>
 
 ### Skills
 
